@@ -1,7 +1,7 @@
 # Aps-informaticas
 # Aplicaciones Informáticas - Programación en Python 🐍
 
-Este repositorio contiene los trabajos y proyectos realizados para la materia **Aplicaciones Informáticas**, dictada por el profesor **Facundo Herrera**.
+Este repositorio contiene los trabajos y proyectos realizados para la materia **Aplicaciones Informáticas**, dictada por el profesor **@Facuherreraic**.
 
 A lo largo del curso voy a aprender:
 
